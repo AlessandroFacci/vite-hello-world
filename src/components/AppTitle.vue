@@ -15,5 +15,7 @@ export default {
 <style>
 h1 {
   color: red;
+  text-align: center;
+  margin: 3rem 0;
 }
 </style>
