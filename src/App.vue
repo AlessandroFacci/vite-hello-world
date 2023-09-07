@@ -1,8 +1,9 @@
 <script>
 import AppTitle from "./components/AppTitle.vue";
+import AppHero from "./AppHero.vue";
 
 export default {
-  components: { AppTitle },
+  components: { AppTitle, AppHero },
 };
 </script>
 
