@@ -8,6 +8,7 @@ export default {
 
 <template>
   <AppTitle></AppTitle>
+  <AppGallery></AppGallery>
 </template>
 
 <style></style>
