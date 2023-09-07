@@ -2,6 +2,15 @@
 export default {};
 </script>
 
-<template></template>
+<template>
+  <div class="jumbotron"></div>
+</template>
 
-<style></style>
+<style lang="scss" scoped>
+.jumbotron {
+  width: 1180px;
+  height: 400px;
+  margin: 0 auto;
+  border: 2px dashed green;
+}
+</style>

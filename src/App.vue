@@ -9,7 +9,8 @@ export default {
 
 <template>
   <AppTitle></AppTitle>
-  <AppGallery></AppGallery>
+  <AppHero></AppHero>
 </template>
 
 <style></style>
+np
